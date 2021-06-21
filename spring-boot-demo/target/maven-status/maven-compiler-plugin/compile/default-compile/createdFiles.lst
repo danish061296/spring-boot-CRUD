@@ -1,0 +1,6 @@
+com/danish/springbootdemo/student/Student.class
+com/danish/springbootdemo/student/StudentRepository.class
+com/danish/springbootdemo/student/StudentConfig.class
+com/danish/springbootdemo/student/StudentController.class
+com/danish/springbootdemo/SpringBootDemoApplication.class
+com/danish/springbootdemo/student/StudentService.class
