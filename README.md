@@ -2,6 +2,13 @@
 
 Completed and built Java Spring Boot server side CRUD application with JpaRepository and PostgreSQL. Earned certificate of completion from AmigosCode.
 
+# Dependencies used:
+Spring Web
+
+Spring Data JPA
+
+PostgreSQL Driver
+
 # Run instructions
 
 Run the app or do following:
